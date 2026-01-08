@@ -51,7 +51,7 @@ OpenWeatherMap API Key
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone [https://github.com/Amin-Awinti/the-weather-forecasting.git](https://github.com/anmolsharma-coder/Weather-Forecasting-System)
+git clone [[https://github.com/Anmol-Sharma/Weather-Forecasting-System.git]](https://github.com/anmolsharma-coder/Weather-Forecasting-System)
 
 2️⃣ Navigate to Project Directory
 cd the-weather-forecasting
